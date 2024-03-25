@@ -1,2 +1,2 @@
 # Lightist
- Source code and algorithm analysis
+ Gameplay and algorithm analysis
